@@ -1,0 +1,18 @@
+
+
+.Paymentpage{
+        padding: 20px;
+        width:100%;
+        background-image: url(../../Images/paymentback.jpg);
+        background-size:cover;
+        background-attachment:fixed;
+        font-family: 'Open Sans', sans-serif;
+        height:800px;
+}
+
+.title{
+        text-align: right;
+        font-size: small;
+        font-style: italic;
+        color:gray;
+}
